@@ -1,6 +1,6 @@
 # Codle
 
-###### A Ruby written, terminal-based Wordle game.
+###### A Ruby written, terminal-based Wordle game I made because I suck at Wordle and thought trying to make it would be funner than the game itself lol.
 
 ### To Download
 
